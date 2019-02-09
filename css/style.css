@@ -1,5 +1,5 @@
 .nav-name {
- font-family: cursive;
+ font-family: fantasy;
 }
 body {
  background-color:DarkOliveGreen;
@@ -15,7 +15,11 @@ h2 {
  font-family: fantasy;
  color:black;
 }
-h5 {
+h6 {
  font-family: fantasy;
  color: black;
+}
+p {
+ font-family: monospace;
+ 
 }
