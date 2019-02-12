@@ -1,22 +1,22 @@
 .nav-name {
- font-family: fantasy;
+ font-family: inherit;
 }
 body {
- background-color:DarkOliveGreen;
+ background-color:LightGrey;
 }
 .nav-bg{
  background-color:#cfda90;
 }
 h1 {
- font-family: fantasy;
+ font-family: inherit;
  color:Black;
 }
-h2 {
- font-family: fantasy;
+h3 {
+ font-family: inherit;
  color:black;
 }
 h6 {
- font-family: fantasy;
+ font-family: inherit;
  color: black;
 }
 p {
@@ -25,5 +25,5 @@ p {
 }
 .padding {
  padding: 50px;
- background-color:seashell;
+ background-color:white;
 }
