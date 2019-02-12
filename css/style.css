@@ -5,7 +5,7 @@ body {
  background-color:LightGrey;
 }
 .nav-bg{
- background-color:#cfda90;
+ background-color: lightgrey;
 }
 h1 {
  font-family: inherit;
@@ -26,4 +26,7 @@ p {
 .padding {
  padding: 50px;
  background-color:white;
+}
+.alt-padding {
+ padding: 50px;
 }
